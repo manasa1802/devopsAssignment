@@ -4,8 +4,8 @@
 source ./devops01a.sh
 
 
-funcVolume
+funcVolume volume
+funcCpucore cpu
+funcIpaddress ipadd
+funcAll all
 
-funcCpucore
-
-funcIpaddress
